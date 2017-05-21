@@ -10,5 +10,5 @@
 
 # rspec failure tracking
 .rspec_status
-/.idea/
 smart_cache-0.1.0.gem
+/.idea/
